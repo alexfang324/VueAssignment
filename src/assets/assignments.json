@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Anular Profile",
+    "dueDate": "2024-04-01",
+    "percentComplete": 5
+  },
+  {
+    "title": "C# Internal Project",
+    "dueDate": "2024-04-15",
+    "percentComplete": 20
+  },
+  {
+    "title": "Audio Engine Website Mimicking",
+    "dueDate": "2024-02-24",
+    "percentComplete": 100
+  },
+  {
+    "title": "Bun Hono App",
+    "dueDate": "2024-02-08",
+    "percentComplete": 50
+  },
+  {
+    "title": "React TMDB Site",
+    "dueDate": "2024-02-24",
+    "percentComplete": 70
+  }
+]
