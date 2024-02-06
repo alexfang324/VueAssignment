@@ -1,29 +1,11 @@
-# hello-vue
+Functionality of the Vue.js component (4 points)
+App runs as expected, 4 points for this section
 
-This template should help get you started developing with Vue 3 in Vite.
+Effectiveness of the UI/UX  (2 points)
+Simple and sleek styling, 2 points for this section
 
-## Recommended IDE Setup
+Code cleanliness and organization (2 points)
+Clean and organized code, no extra folders that aren't being used, 2 points for this section
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+Collaboration effort and peer review completion (2 point)
+Very good, 2 points for this section
